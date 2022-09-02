@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Rodríguez Martín
+    given-names: Pablo
+    orcid: https://orcid.org/0000-0002-7345-8923
+title: "Model for 5G network slicing scheduling with TSN"
+version: 1.0.3
+date-released: 2022-09-05
