@@ -1,4 +1,4 @@
-# Configuration of TSN networks for the transport of 5G slices: Optimization os the scheduler through Machine Learning (code only)
+# Configuration of TSN networks for the transport of 5G slices: Optimization of the scheduler through Machine Learning (code only)
 
 _Code designed for  MSc. Telecommunications Engineering Final Project_
 
