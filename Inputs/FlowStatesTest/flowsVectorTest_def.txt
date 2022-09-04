@@ -1,4 +1,0 @@
-src, dst, maxDelay, T_tx, length, talker_txSpeed, listener_txSpeed
-1, 6, 0.25e-3, 0.25e-3, 32, 1e9, 1e9
-1, 6, 1e-3, 0.5e-3, 32, 1e9, 1e9
-1, 6, 1e-3, 1e-3, 32, 1e9, 1e9
