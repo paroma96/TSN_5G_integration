@@ -4,7 +4,6 @@
 # pip install networkx
 # pip install pygad
 # pip install scipy
-# pip install goto-statement
 """
 This code defines the genetic algorithm that allows the use of a topology matrix (1 if 
 node i is linked to node j, 0 if not) in order to find the optimal solution in a TSN+5G 
