@@ -2,7 +2,7 @@
 
 _Code designed for  MSc. Telecommunications Engineering Final Project_
 
-_Full document can be found clicking on [here](10.30827/Digibug.77411)_
+_Full document can be found clicking on [here](https://digibug.ugr.es/handle/10481/77411)_
 
 
 ## What is this repository about? 🚀
